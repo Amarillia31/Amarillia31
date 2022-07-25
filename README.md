@@ -35,3 +35,6 @@ Please see sample projects below:
 :heavy_check_mark: Automation project  for open bookong API - https://restful-booker.herokuapp.com/
 
 [![Elena's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amarillia31)](https://github.com/Amarillia31/github-readme-stats)
+
+## Certificates
+<a target="_blank" href="https://courses.edx.org/certificates/a6ee6d444fb94407bce223e3af17be1e">6.00.1x Introduction to Computer Science and Programming Using Python</a></br></br>
