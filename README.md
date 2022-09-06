@@ -24,7 +24,7 @@ Please see sample projects below:
 
 ## Web UI testing
 :link:Test project: <a target="_blank" href="https://github.com/Amarillia31/WB_UI_tests">Tests</a></br></br>
-:heavy_check_mark: Automation project for web-site - "Wildberies"
+:heavy_check_mark: Automation project for web-site - "Wildberries"
 
 ## Mobile UI testing
 :link:Test project: <a target="_blank" href="https://github.com/Amarillia31/mobile-tests-appium">Tests</a></br></br>
