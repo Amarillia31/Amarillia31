@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 Hi my name is Elena and I'm working as QA Engeneer in FinTech Domain (Capital Markets, Trading, Smart Order Routers, Broker systems, etc). 
-8 years in Software Testing & Quality Assurance.
-3 years of experience as QA Manager.
 
 
 Please see sample projects below: 
